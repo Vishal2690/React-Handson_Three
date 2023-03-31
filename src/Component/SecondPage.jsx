@@ -1,13 +1,12 @@
-import React, { Component } from 'react'
-import './SecondPage.css'
-// import ThirdHandsonCompo from './ThirdHandsonCompo';
+import React, { Component } from 'react';
+import './SecondPage.css';
 
 
 class SecondPage extends Component {
-    constructor(props) {
-        super(props);
+    // constructor(props) {
+    //     super(props);
 
-    }
+    // }
     render() {
         return (
             <div>

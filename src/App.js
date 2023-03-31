@@ -4,7 +4,8 @@ import ThirdHandsonCompo from './Component/ThirdHandsonCompo';
 function App() {
   return (
     <div>
-      <ThirdHandsonCompo/>
+      <ThirdHandsonCompo />
+     
     </div>
   )
 }
