@@ -1,0 +1,47 @@
+.hideCssAdd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 200px;
+    border: 3px solid black;
+}
+.hideCssAd{
+   text-align: center;
+   padding-top: 34px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 60%;
+    height: 100px;
+    margin: 10px;
+    background-color: darkorange;
+    border-radius: 10px;
+    box-shadow: 3px 5px 7px saddlebrown;
+
+}
+
+
+
+
+#addBtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#addBtn button{
+    background-color: rgb(247, 246, 246);
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(7, 7, 7);
+    box-shadow: 3px 5px 10px rgb(98, 92, 92);
+    
+}
+#color:hover{
+    color: white;
+    background-color: red;
+}
